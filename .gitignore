@@ -1,0 +1,12 @@
+# PyCharm and IDE files
+/.idea
+
+# Python cache
+/__pycache__
+*.pyc
+
+# Training outputs
+/runs
+
+# Model weights
+/weights
