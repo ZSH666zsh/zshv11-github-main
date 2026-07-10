@@ -1,0 +1,7 @@
+path: D:\ZSHProject\DATA\ZSHCMHB_YOLO
+train: images\train
+val: images\val
+test: images\test
+
+names:
+    0: Crack
