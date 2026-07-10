@@ -1,0 +1,10 @@
+path: D:\ZSHProject\DATA\ZSHCityWall_YOLO_COCO
+train: images\train
+val: images\val_hide
+test: images\test
+
+names:
+    0: Cavity
+    1: Crack
+    2: Efflorescence
+    3: Erosion
