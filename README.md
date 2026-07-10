@@ -150,7 +150,7 @@ If you use this code or dataset in your research, please cite our paper:
 ```bibtex
 @article{zsh2025citywall,
   title={Ancient City Wall Defect Detection Based on Cross-guided and Dynamic Adaptive Convolution},
-  author={},
+  author={Shihang Zhao, Zengxin Chen, Yage Zhang, Yijie Guan, Yongbo Yu, Jianwei Yue},
   journal={},
   year={2025}
 }
